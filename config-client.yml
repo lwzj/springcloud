@@ -6,8 +6,8 @@ server:
   port: 8201
 spring:
   profiles:
-    application:
-      name:  springcloud-provider-dept
+  application:
+    name:  springcloud-provider-dept
       
 eureka:
   clent:
@@ -19,8 +19,8 @@ server:
   port: 8202
 spring:
   profiles:
-    application:
-      name: springcloud-provider-dept
+  application:
+    name: springcloud-provider-dept
       
 eureka:
   clent:
